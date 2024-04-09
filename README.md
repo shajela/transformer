@@ -1,0 +1,1 @@
+Implementation of many of the operations in the Transformer architecture. The implementation will mostly follow the instructions in the paper "Attention is All You Need" by Vaswani et al, 2017. (https://arxiv.org/abs/1706.03762).
